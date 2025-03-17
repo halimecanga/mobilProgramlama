@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".berat">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Berat Kandili Mesajları"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/button40"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:text="@string/beratmesaj1"
+        android:contentDescription="@string/beratmesaj1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView6"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:focusable="true"/>
+
+    <Button
+        android:id="@+id/button41"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:text="@string/beratmesaj2"
+        android:contentDescription="@string/beratmesaj2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button40"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:focusable="true"/>
+
+    <Button
+        android:id="@+id/button42"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:text="@string/beratmesaj3"
+        android:contentDescription="@string/beratmesaj3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button41"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:focusable="true"/>
+
+    <Button
+        android:id="@+id/button43"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:text="@string/beratmesaj4"
+        android:contentDescription="@string/beratmesaj4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button42"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:focusable="true"/>
+
+    <Button
+        android:id="@+id/button44"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:text="@string/beratmesaj5"
+        android:contentDescription="@string/beratmesaj5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button43"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:focusable="true"/>
+
+    <Button
+        android:id="@+id/button45"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:text="@string/beratmesaj6"
+        android:contentDescription="@string/beratmesaj6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button44"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:focusable="true"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
