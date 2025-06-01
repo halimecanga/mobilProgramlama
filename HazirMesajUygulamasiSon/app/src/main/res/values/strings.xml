@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">HazirMesajUygulamasi</string>
+
+    <string name="ramazan">Ramazan Bayramı Mesajları</string>
+    <string name="kurban">Kurban Bayramı Mesajları</string>
+    <string name="beratkandili">Berat Kandili Mesajları</string>
+    <string name="mirackandili">Miraç Kandili Mesajları</string>
+    <string name="kadirgecesi">Kadir Gecesi Mesajları</string>
+    <string name="sevgililergunu">Sevgililer Günü Mesajları</string>
+    <string name="regaipkandili">Regaip Kandili Mesajları</string>
+    <string name="annelergunu">Anneler Günü Mesajları</string>
+    <string name="babalargunu">Babalar Günü Mesajları</string>
+    <string name="ogretmenlergunu">Öğretmenler Günü Mesajları</string>
+    <string name="kadinlargunu">Kadınlar Günü Mesajları</string>
+    <string name="yeniyil">Yeni Yıl Mesajları</string>
+    <string name="mezuniyetgunu">Mezuniyet Tebrik Mesajları</string>
+    <string name="button">Buton</string>
+    <string name="uyarianneler">Anneler Günü Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyaribabalar">Babalar Günü Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyariberat">Berat Kandili Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyarikurban">Kurban Bayramı Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyarikadir">Kadir Gecesi Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyarimirac">Miraç Kandili Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyariramazan">Ramazan Bayramı Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyarisevgililer">Sevgililer Günü Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyariregaip">Regaip Kandili Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyariogretmen">Öğretmenler Günü Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyarikadinlar">Kadınlar Günü Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyariyeniyil">Yeni Yıl Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+    <string name="uyarimezuniyet">Mezuniyet Tebrik Mesajlarındasınız. Beğendiğiniz Mesaj Üzerine Tıklayarak Kopyalayabilirsiniz.</string>
+
+    <string name="annelermesaj1">Anneciğim, sevgin en büyük hediyem! Anneler Günün kutlu olsun. ❤️</string>
+    <string name="annelermesaj2">Dünyadaki en güzel kelime ‘anne’! Seni çok seviyorum, iyi ki varsın. 🌸️</string>
+    <string name="annelermesaj3">Senin sevgin bana güç veriyor, Anneler Günün kutlu olsun! 💐</string>
+    <string name="annelermesaj4">Anne sevgisi dünyadaki en saf sevgidir. İyi ki benim annemsin! 💖</string>
+    <string name="annelermesaj5">Sonsuz sevgin ve emeğin için teşekkürler. Seni çok seviyorum anne! 🌼️</string>
+    <string name="annelermesaj6">Senin gibi bir anneye sahip olmak en büyük şansım! 💕</string>
+
+    <string name="babalarmesaj1">Hayattaki en büyük kahramanıma: Babalar Günün kutlu olsun!️</string>
+    <string name="babalarmesaj2">Sevgin ve desteğin için teşekkür ederim baba! Mutlu günler seninle olsun!</string>
+    <string name="babalarmesaj3">Babam, iyi ki varsın! Babalar Günün kutlu olsun!</string>
+    <string name="babalarmesaj4">Senin gibi bir baba herkese nasip olmaz! İyi ki benim babamsın!</string>
+    <string name="babalarmesaj5">Senin evladın olmak en büyük şansım! Babalar Günün kutlu olsun!️</string>
+    <string name="babalarmesaj6">Canım babam, her zaman yanımda olduğun için teşekkürler! Seni seviyorum! ❤️</string>
+
+    <string name="sevgilimesaj1">Seninle her gün Sevgililer Günü! Seni çok seviyorum! ❤️</string>
+    <string name="sevgilimesaj2">Aşkın hayatıma ışık gibi doğdu. İyi ki varsın! 💖</string>
+    <string name="sevgilimesaj3">Kalbim hep seninle, bugün ve her zaman! 💕</string>
+    <string name="sevgilimesaj4">Sonsuz sevgimle… Sevgililer Günün kutlu olsun! ❤️</string>
+    <string name="sevgilimesaj5">Seninle her an özel, her an güzel! İyi ki hayatımdasın! 💞</string>
+    <string name="sevgilimesaj6">Sevgim sana sonsuz, seninle her şey muazzam! 💘️</string>
+
+    <string name="ramazanmesaj1">Bayramınız mübarek olsun!️</string>
+    <string name="ramazanmesaj2">Huzurlu bir bayram dilerim.</string>
+    <string name="ramazanmesaj3">Bayramda sevdiklerinizle olmanın keyfini çıkarın.️</string>
+    <string name="ramazanmesaj4">Sağlık ve mutluluk dolu bir bayram olsun.️</string>
+    <string name="ramazanmesaj5">Bayramınız kutlu olsun, gönlünüz hep huzurlu olsun.️</string>
+    <string name="ramazanmesaj6">Bayramda neşe ve barış sizinle olsun!</string>
+
+    <string name="kurbanmesaj1">Bayramınız bereketli ve güzel olsun.</string>
+    <string name="kurbanmesaj2">Sevdiklerinizle mutlu bir bayram geçirin..️</string>
+    <string name="kurbanmesaj3">Bayramda kalbiniz hep huzurla dolsun.</string>
+    <string name="kurbanmesaj4">Bayramınız mübarek, gönlünüz ferah olsun.</string>
+    <string name="kurbanmesaj5">Bayramda mutluluk ve sağlık sizinle olsun.️</string>
+    <string name="kurbanmesaj6">Huzur dolu bir bayram dilerim.️</string>
+
+    <string name="beratmesaj1">Berat Kandiliniz mübarek olsun, dualarınız kabul olsun.</string>
+    <string name="beratmesaj2">Bu mübarek gece, kalbiniz aydınlık, dualarınız kabul olsun.</string>
+    <string name="beratmesaj3">Allah tüm dileklerinizi kabul etsin.</string>
+    <string name="beratmesaj4">Berat Kandilinizde, huzur ve bereket sizinle olsun.</string>
+    <string name="beratmesaj5">Berat Kandili, gönüllerinizi sevgiyle doldursun.</string>
+    <string name="beratmesaj6">Bu mübarek gece, tüm dualarınızın kabul olduğu bir gece olsun.</string>
+
+    <string name="miracmesaj1">Miraç Kandiliniz mübarek olsun, dualarınız kabul olsun.</string>
+    <string name="miracmesaj2">Miraç Kandili’nin feyzi ve bereketi üzerinizde olsun. </string>
+    <string name="miracmesaj3">Bu mübarek gecede dualarınız kabul, kalbiniz huzurlu olsun.</string>
+    <string name="miracmesaj4">Miraç Kandili’nde tüm dilekleriniz gerçek olsun.</string>
+    <string name="miracmesaj5">Miraç Kandili, kalbinizi arındıran bir gece olsun.</string>
+    <string name="miracmesaj6">Miraç Kandili’nin rahmeti ve huzuru hayatınızı sarsın.</string>
+
+    <string name="regaipmesaj1">Regaip Kandiliniz Mübarek Olsun! Allah dualarınızı kabul etsin, huzur ve bereket getirsin. 🌙✨</string>
+    <string name="regaipmesaj2">Hayırlı Kandiller! Bu mübarek gecede gönlünüz huzurla dolsun, dualarınız kabul olsun.</string>
+    <string name="regaipmesaj3">Regaip Kandiliniz Mübarek Olsun! Sağlık, mutluluk ve huzur dolu nice kandillere…</string>
+    <string name="regaipmesaj4">Kandiliniz mübarek olsun! Rabbim bu mübarek gece hürmetine tüm dualarınızı kabul eylesin.</string>
+    <string name="regaipmesaj5">Regaip Kandilinin bereketi üzerinize olsun.</string>
+    <string name="regaipmesaj6">Hayırlı Kandiller! Dualarınız kabul, gönlünüz ferah olsun. 🌙💫</string>
+
+    <string name="kadirmesaj1">Kadir Geceniz mübarek olsun, dualarınız kabul olsun.</string>
+    <string name="kadirmesaj2">Bu gece, Allah’ın rahmeti ve bereketi üzerinizde olsun.</string>
+    <string name="kadirmesaj3">Kadir Gecesi’nin feyziyle hayatınız aydınlansın.</string>
+    <string name="kadirmesaj4">Kadir Gecesi’nde tüm dilekleriniz kabul olsun.</string>
+    <string name="kadirmesaj5">Bu mübarek gece, kalbiniz huzurla dolsun.</string>
+    <string name="kadirmesaj6">Kadir Gecesi’nin manevi ışığı size ve sevdiklerinize rehber olsun.</string>
+
+    <string name="ogretmenlermesaj1">"Geleceği şekillendiren, yüreklerimize dokunan tüm öğretmenlerimizin günü kutlu olsun. İyi ki varsınız!"️</string>
+    <string name="ogretmenlermesaj2">"Bir insanı eğitmek, bir toplumu kurtarmaktır. Emeğinizin kıymetini biliyoruz. Nice güzel günlere, iyi ki varsınız."</string>
+    <string name="ogretmenlermesaj3">"Dünyanın en kutsal mesleğini yapan, bilgiyle bizi donatan tüm öğretmenlere selam olsun. 24 Kasım Öğretmenler Günü kutlu olsun!  "</string>
+    <string name="ogretmenlermesaj4">"Bir harf öğretenin kırk yıl kölesi olurum diyen bir milletin evladı olarak, emekleriniz için minnettarız. Öğretmenler Gününüz kutlu olsun.  "</string>
+    <string name="ogretmenlermesaj5">"Kalbimize dokunan, bize ışık olan öğretmenim... Sizi unutmadım. Öğretmenler Gününüz kutlu olsun."</string>
+
+    <string name="kadinlarmesaj1">"Hayatımıza kattığınız sevgi, azim ve güç için teşekkür ederim. Kadınlar Günü'nüz kutlu olsun!"️</string>
+    <string name="kadinlarmesaj2">"Dünya, sizin gibi güçlü ve ilham verici kadınlarla daha güzel. Kadınlar Günü'nüzde tüm kadınları kutlarım!"</string>
+    <string name="kadinlarmesaj3">"Emeğiniz, özveriniz ve gücünüzle dünyayı daha iyi bir yer haline getiriyorsunuz. Kadınlar Günü'nüz kutlu olsun!"️</string>
+    <string name="kadinlarmesaj4">"Her günü daha parlak kılan, sevgiyle dolu olan tüm kadınlara minnettarız. Kadınlar Günü'nüz kutlu olsun!"</string>
+    <string name="kadinlarmesaj5">"Kadın olmak, gücün ve zarafetin bir arada olduğu bir yolculuktur. Her kadının Kadınlar Günü kutlu olsun!"</string>
+
+    <string name="yeniyilmesaj1">"Yeni yıl, sağlık, mutluluk ve başarılarla dolu olsun! 2025'te tüm hayalleriniz gerçek olsun. İyi seneler!"️</string>
+    <string name="yeniyilmesaj2">"Her yeni yıl, yeni umutlar ve başlangıçlar demektir. 2025’te yaşamınızda sadece güzellikler olsun. Mutlu yıllar!"</string>
+    <string name="yeniyilmesaj3">"Geçen yılın tüm zorlukları geride kaldı, şimdi yeni umutlarla dolu bir yıl başlıyor. Yeni yılınız kutlu olsun!️"</string>
+    <string name="yeniyilmesaj4">"Yeni yıl, hayatınıza neşe, huzur ve başarı getirsin. Her şeyin en iyisi sizlerin olsun! Mutlu yıllar!"</string>
+    <string name="yeniyilmesaj5">"Yeni bir yıl, yeni bir başlangıç... 2025, tüm dileklerinizin gerçeğe dönüştüğü bir yıl olsun. İyi yıllar!"️</string>
+
+    <string name="mezuniyetmesaj1">"🎓 Bugün emeklerinin karşılığını aldığın gündür. Mezuniyetin kutlu olsun, başarıların daim olsun!"️</string>
+    <string name="mezuniyetmesaj2">"🌟 Bir kapı kapanıyor, yepyeni yollar açılıyor. Hayat yolculuğunda daima ışığın parlasın. Tebrikler mezun!"️</string>
+    <string name="mezuniyetmesaj3">"💫 Zorlukları aşarak bugüne geldin, şimdi sıra hayallerini gerçekleştirmekte. Mezuniyetin hayırlı olsun!"️</string>
+    <string name="mezuniyetmesaj4">"🏆 Her son yeni bir başlangıçtır. Bugün gurur günü, yarın başarılarla dolu bir gelecek seninle olsun!"️</string>
+    <string name="mezuniyetmesaj5">"✨ Mezuniyet, azminin ve kararlılığının bir göstergesi. Geleceğin senin ellerinde, yolun açık olsun!"️</string>
+
+</resources>

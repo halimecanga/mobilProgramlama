@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".anasayfa">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ramazan Bayramı Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="ramazangit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kurban Bayramı Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="kurbangit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kadir Gecesi Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="kadirgit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Miraç Kandili Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="miracgit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Berat Kandili Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="beratgit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Regaip Kandili Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="regaipgit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Anneler Günü Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="annelergit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Babalar Günü Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="babalargit" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sevgililer Günü Mesajları"
+                android:backgroundTint="#6A1B9A"
+                android:textColor="#FFFFFF"
+                android:onClick="sevgiligit" />
+
+            <Button
+                android:id="@+id/button100"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#6A1B9A"
+                android:onClick="ogretmenlergit"
+                android:text="Öğretmenler Günü Mesajları"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/button101"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#6A1B9A"
+                android:onClick="kadinlargit"
+                android:text="Kadınlar Günü Mesajları"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/button102"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#6A1B9A"
+                android:onClick="yeniyilgit"
+                android:text="Yeni Yıl Mesajları"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/button103"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#6A1B9A"
+                android:onClick="mezuniyetgit"
+                android:text="Mezuniyet Tebrik Mesajları"
+                android:textColor="#FFFFFF" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
